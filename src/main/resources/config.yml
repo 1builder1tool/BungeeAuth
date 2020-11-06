@@ -1,0 +1,8 @@
+# Set to true if this is the cracked proxy, set to false if this is the premium proxy.
+Cracked: true
+
+PlayerData2FolderCracked: "./Premium/playerdata2"
+PlayerData3FolderCracked: "./Premium/playerdata3"
+
+PlayerData2FolderPremium: "./playerdata2"
+PlayerData3FolderPremium: "./playerdata3"
